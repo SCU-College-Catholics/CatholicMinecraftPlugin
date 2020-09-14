@@ -1,0 +1,8 @@
+name: Catholic
+version: 1.1
+author: KFenole
+main: com.kfenole.CatholicSpigot.Catholic
+commands:
+  sod:
+    description: Use for Saint of the day
+    usage: Simple
